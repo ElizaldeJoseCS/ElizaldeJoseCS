@@ -1,5 +1,4 @@
 ## Hi there 👋
-[![GitHub stats](https://github-stats-extended.vercel.app/api?username=ElizaldeJoseCS)](https://github.com/stats-organization/github-stats-extended)
 
 <!--
 **ElizaldeJoseCS/ElizaldeJoseCS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
