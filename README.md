@@ -28,18 +28,6 @@ A first-person action shooter built with an 8-person team of programmers, artist
 
 `Unity` `C#` `Git`
 
----
-
-## 🔬 Research
-
-**Carnegie Mellon University** — REUSE Program, Human-Computer Interaction Institute
-Co-authored a paper with CMU faculty accepted to **CHI 2026**.
-
-**UCLA** — SURE C2 Program, Department of Mathematics
-Researched transfer systems on partially ordered sets, found a recursive pattern on Xₙ⁺⁺, and co-authored a paper presented at UT Arlington. Wrote the C++ program that automated the counting.
-
----
-
 ## 🛠️ Stack
 
 **Languages**
