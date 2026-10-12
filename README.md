@@ -3,7 +3,7 @@
 CS & Engineering @ UCLA
 
 Most of my projects are ones I deploy and operate by myself
-🌐 [joseelizalde.dev](https://joseelizalde.dev) · 💼 [LinkedIn](https://linkedin.com/in/JoseElizalde) · 📫 joseelizalde02@g.ucla.edu
+🌐 [joseelizalde.dev](https://joseelizalde.dev) · 💼 [LinkedIn](https://www.linkedin.com/in/jose-a-elizalde/) · 📫 joseelizalde02@g.ucla.edu
 
 ---
 
