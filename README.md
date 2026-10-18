@@ -7,7 +7,7 @@ Check out my project more in more detail on my personal website ->
 
 ---
 
-## 🔭 What I'm building
+## 🔭 Some Projects I'm Still working on: 
 
 ### [DailyCodeForce](https://github.com/ElizaldeJoseCS/DailyCodeforce)
 A self-hosted competitive programming platform. Seven Docker Compose services on a single DigitalOcean droplet: Next.js app, PostgreSQL, a sandboxed C++17 judge, a Go Discord bot, presence tracker, cron scheduler, and Nginx out front.
@@ -23,9 +23,8 @@ Also screens all 503 S&P 500 tickers on momentum in 39 seconds, in a background 
 
 `C++` `Python` `FastAPI` `pandas` `NumPy` `systemd`
 
-### [Jump The Gun](https://github.com/SRS-Jump-the-Gun/JumpTheGunUnityBuild) — Game Director @ UCLA ACM Studio
-A first-person action shooter built with an 8-person team of programmers, artists and designers. I wrote a custom physics-based movement controller in C# to replace Unity's default character controller, and I run the team's Git branching and PR workflow.
-
+### [Jump The Gun](https://github.com/SRS-Jump-the-Gun/JumpTheGunUnityBuild) — Game Director  @ UCLA ACM Studio
+A first-person action shooter built with an 8-person team of programmers, artists and designers. 
 `Unity` `C#` `Git`
 
 ## 🛠️ Stack
