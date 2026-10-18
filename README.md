@@ -3,23 +3,19 @@
 CS & Engineering @ UCLA
 
 Check out my project more in more detail on my personal website ->
-🌐 [joseelizalde.dev](https://joseelizalde.dev) · 💼 [LinkedIn](https://www.linkedin.com/in/jose-a-elizalde/) · 📫 joseelizalde02@g.ucla.edu
+[joseelizalde.dev](https://joseelizalde.dev) · [LinkedIn](https://www.linkedin.com/in/jose-a-elizalde/) · joseelizalde02@g.ucla.edu
 
 ---
 
-## 🔭 Some Projects I'm Still working on: 
+## Some Projects I'm Still working on: 
 
 ### [DailyCodeForce](https://github.com/ElizaldeJoseCS/DailyCodeforce)
-A self-hosted competitive programming platform. Seven Docker Compose services on a single DigitalOcean droplet: Next.js app, PostgreSQL, a sandboxed C++17 judge, a Go Discord bot, presence tracker, cron scheduler, and Nginx out front.
-
-The judge runs untrusted submissions in under a second behind four enforced rlimits, inside a hardened container with pids caps, a `noexec` `/tmp`, and `no-new-privileges`. The scheduler holds a 90-day dedup window over a 113-problem pool and has shipped **81 consecutive daily problems with zero repeats**.
+A daily competitive-programming trainer. Every day it pulls four Codeforces problems, one per difficulty tier, and pairs each with a generated editorial written in the LeetCode style
 
 `Next.js` `TypeScript` `PostgreSQL` `Prisma` `Go` `Docker` `Nginx`
 
 ###  [Robinhood C++ Discord Bot](https://github.com/ElizaldeJoseCS/robinhood-D--bot)
-A C++ Discord bot (D++) talking to a Python FastAPI backend, serving live portfolio analytics at **486ms median / 783ms p99** on a single-vCPU 512MB VPS. Pickled session persistence and proactive token refresh mean it survives restarts without re-login and is fully up 2s after cold start.
-
-Also screens all 503 S&P 500 tickers on momentum in 39 seconds, in a background thread, inside a 107MB peak footprint.
+A bot in my Discord server that keeps an eye on my Robinhood investing account. Type a command and it tells you how the account is doing right now, or which five stocks currently look most promising. It also posts a portfolio update on its own from a timer. It runs on a virtual private server hosted by DigitalOcean, so it works even when my computer is off.
 
 `C++` `Python` `FastAPI` `pandas` `NumPy` `systemd`
 
