@@ -9,7 +9,7 @@ Check out my project more in more detail on my personal website ->
 
 ## Some Projects I'm Still working on: 
 
-### [DailyCodeForce](https://github.com/ElizaldeJoseCS/DailyCodeforce)
+### [DailyCodeForce](https://codeforces-practice.com/)
 A daily competitive-programming trainer. Every day it pulls four Codeforces problems, one per difficulty tier, and pairs each with a generated editorial written in the LeetCode style
 
 `Next.js` `TypeScript` `PostgreSQL` `Prisma` `Go` `Docker` `Nginx`
