@@ -23,6 +23,16 @@ A bot in my Discord server that keeps an eye on my Robinhood investing account. 
 A first-person action shooter built with an 8-person team of programmers, artists and designers. 
 `Unity` `C#` `Git`
 
+### [U.F. ZOO](https://github.com/Destroh33/SkyZoo) — Gameplay Programmer  @ UCLA ACM Studio
+A city-builder and deck-builder roguelike tycoon where you build a zoo in the sky and clear point quotas with your animals. I'm one of the gameplay programmers on a 20-person team. I built the card ability system (15+ different card effects and the rules for how they resolve) and the multi-island expansion that lets you grow your zoo outward. We're aiming for a Steam release in January 2027.
+
+`Unity` `C#` `Blender`
+
+### [Sunshine and Rainbows](https://destroh3.itch.io/sunshine-and-rainbows) — 3D Artist & Blueprint Programmer
+A 3D game made in Unreal Engine 5 where you play as a cute axolotl who smashes piñatas, runs through mazes, and completes objectives. I made 3D models and textures for the game, added sound effects with Blueprints, and did some of the gameplay programming in Blueprints. It's my first Unreal project.
+
+`Unreal Engine 5` `Blueprints` `Blender`
+
 ## 🛠️ Stack
 
 **Languages**
@@ -35,7 +45,7 @@ A first-person action shooter built with an 8-person team of programmers, artist
 `Next.js` `React` `Tailwind` `pandas` `yfinance`
 
 **Tools**
-`Git` `CMake` `Unity` `Neovim` `LaTeX`
+`Git` `CMake` `Unity` `Unreal Engine` `Blender` `Neovim` `LaTeX`
 
 ---
 
